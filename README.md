@@ -1,5 +1,6 @@
 ### Web app clone of LinkedIn
 
-Layout of the website
+<br/>
+Layout of the website<br/>
 
-<div ><img style="width: 80%; margin-top: -30px;" src='./res/ex_run.gif' /></div>
+<img style="width: 100%; margin-top: -30px;" src='./res/ex_run.gif' />
