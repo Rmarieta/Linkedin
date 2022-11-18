@@ -9,7 +9,7 @@ const Leftside = (props) => {
           <CardBackground />
           <a>
             <Photo>
-              {props.user && props.user.photoURL && false ? (
+              {props.user && props.user.photoURL ? (
                 <img src={props.user.photoURL} alt="" />
               ) : (
                 <img src="/images/photo.png" alt="" />
