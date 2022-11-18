@@ -2,4 +2,6 @@
 
 ### Layout of the website :<br/>
 
-<img style="width: 100%; margin-top: -30px;" src='./res/ex_run.gif' />
+<video>
+  <source src="./res/vid_run.mp4" type="video/mp4">
+</video>
