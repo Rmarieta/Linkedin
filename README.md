@@ -10,6 +10,8 @@ Full-stack responsive implementation of a LinkedIn web app, with possibility to 
 
 <br/>
 
+The design is responsive and goes for the mobile mode once under a certain screen width. It then switches to a vertical design (on the right in the figure above).
+
 ### Demo of the app
 
 <video src="" alt='linkedin-demo.mp4'>
