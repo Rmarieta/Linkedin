@@ -1,23 +1,11 @@
 # Web App Clone of LinkedIn Using ReactJS, Firebase and Redux
 
-Full-stack implementation of a LinkedIn web app, with possibility to sign in with Google, view and add posts (text, images and videos), which are in turn saved using the backend implementation. Only the sign-in page and the home page are implemented. 
-
-<img style='width:100%' src='./res/ezgif.com-gif-maker (1).gif' />
+Full-stack responsive implementation of a LinkedIn web app, with possibility to sign in with Google, view and add posts (text, images and videos), which are in turn saved on the server-side using the Firebase backend service. Only the sign-in page and the home page are implemented. 
 
 <br/>
 
-<div style="display=flex; width=100%; gap:50px">
-<img src='./res/screenshot_linkedin_full.png' alt='linkedin-screenshot.png' width='60%'/>
-<img src='./res/screenshot_linkedin-modified.png' alt='linkedin-screenshot.png' width='26%'/>
-</div>
-
-<br/>
-
-
-
-<p align='center' width='20%'>
-
-<img src='./res/screenshot_linkedin.png' alt='linkedin-screenshot.png' style="position:relative;width: 30%;border-radius: 20px"/>
+<p align='center'>
+<img src='./res/fused_screenshot.png' alt='linkedin-screenshot.png' width='80%' />
 </p>
 
 <br/>
@@ -26,3 +14,6 @@ Full-stack implementation of a LinkedIn web app, with possibility to sign in wit
 
 <video src="" alt='linkedin-demo.mp4'>
 </video>
+
+<br/>
+<img style='width:100%' src='./res/ezgif.com-gif-maker (1).gif' />
