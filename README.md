@@ -6,8 +6,15 @@ Full-stack implementation of a LinkedIn web app, with possibility to sign in wit
 
 <br/>
 
-<p align='center'>
-<img src='./public/assets/dashboard_screenshot.png' alt='linkedin-screenshot.png' width='80%'/>
+<img src='./res/screenshot_linkedin.png' alt='linkedin-screenshot.png' width='20%' style={{borderRadius:"10%"}}/>
+
+<br/>
+
+
+
+<p align='center' width='20%'>
+
+<img src='./res/screenshot_linkedin.png' alt='linkedin-screenshot.png' style="position:relative;width: 30%;border-radius: 20px"/>
 </p>
 
 <br/>
