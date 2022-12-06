@@ -6,9 +6,9 @@ Full-stack implementation of a LinkedIn web app, with possibility to sign in wit
 
 <br/>
 
-<div display='flex' width='100%'>
-<img src='./res/screenshot_linkedin_large.png' alt='linkedin-screenshot.png' width='70%'/>
-<img src='./res/screenshot_linkedin-modified.png' alt='linkedin-screenshot.png' width='20%'/>
+<div style="display=flex; width=100%; gap:50px">
+<img src='./res/screenshot_linkedin_full.png' alt='linkedin-screenshot.png' width='60%'/>
+<img src='./res/screenshot_linkedin-modified.png' alt='linkedin-screenshot.png' width='26%'/>
 </div>
 
 <br/>
